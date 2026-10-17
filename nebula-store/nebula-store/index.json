@@ -42,6 +42,17 @@
       "preview": "previews/violet-ring.png",
       "file": "skins/violet-ring.cxskin",
       "sha256": "c489b5a6a3b8816a48bf03cc2cf74c1ce020c84a6018cf0909d018212b33ab28"
+    },
+    {
+      "id": "pokemon",
+      "name": "pokemon",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/pokemon.png",
+      "file": "skins/pokemon.cxskin",
+      "sha256": "99C7D97DBCE976327C1D0E1C86B1FD335EC23EB393CF929732985878BFD4ADC5"
     }
   ]
 }
