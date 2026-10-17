@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skins": [
+    {
+      "id": "sunset-arrow",
+      "name": "Закат",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": false,
+      "tags": [
+        "стрелка",
+        "яркий"
+      ],
+      "preview": "previews/sunset-arrow.png",
+      "file": "skins/sunset-arrow.cxskin",
+      "sha256": "16a5c7a80d209add920d2be8eb3c9e4c9b4254dc033b3b7c8cdddeb466916efd"
+    },
+    {
+      "id": "mint-arrow",
+      "name": "Мята",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": false,
+      "tags": [
+        "стрелка",
+        "мята"
+      ],
+      "preview": "previews/mint-arrow.png",
+      "file": "skins/mint-arrow.cxskin",
+      "sha256": "0795d0764ab567016b56ea75b7a56c23d79735e522a1871c532bcfdfaf4d529b"
+    },
+    {
+      "id": "violet-ring",
+      "name": "Фиолетовое кольцо",
+      "author": "nixtand",
+      "effect": "pulse",
+      "gif": false,
+      "tags": [
+        "кольцо",
+        "пульс"
+      ],
+      "preview": "previews/violet-ring.png",
+      "file": "skins/violet-ring.cxskin",
+      "sha256": "c489b5a6a3b8816a48bf03cc2cf74c1ce020c84a6018cf0909d018212b33ab28"
+    }
+  ]
+}
