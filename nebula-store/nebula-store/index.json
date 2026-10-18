@@ -53,6 +53,17 @@
       "preview": "previews/pokemon.png",
       "file": "skins/pokemon.cxskin",
       "sha256": "99C7D97DBCE976327C1D0E1C86B1FD335EC23EB393CF929732985878BFD4ADC5"
+    },
+    {
+      "id": "shiny-gengar-ig",
+      "name": "shiny-gengar-ig",
+      "author": "faps",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/shiny-gengar-ig.png",
+      "file": "skins/shiny-gengar-ig.cxskin",
+      "sha256": "1540EE022591D154F4FBD47702D6EA733E39E70AFA842270B983A6A839A5B6B9"
     }
   ]
 }
