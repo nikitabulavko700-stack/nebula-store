@@ -75,6 +75,17 @@
       "preview": "previews/bits-8bits.png",
       "file": "skins/bits-8bits.cxskin",
       "sha256": "C75A54E67542690B55F00373056DCDE146BBFC879450CA076411BCB3A994A861"
+    },
+    {
+      "id": "cat",
+      "name": "cat",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/cat.png",
+      "file": "skins/cat.cxskin",
+      "sha256": "82AE1C76C4ED78518D2770489F480D0F7E892594F6645BE5E45BABFD1CF292C1"
     }
   ]
 }
