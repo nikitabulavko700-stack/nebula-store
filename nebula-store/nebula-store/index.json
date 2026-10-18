@@ -108,6 +108,17 @@
       "preview": "previews/conic-the-cat.png",
       "file": "skins/conic-the-cat.cxskin",
       "sha256": "A3AD9A41DE06E499A832F0E9CA2D216386A8813891142FE58A628C0E11D935C3"
+    },
+    {
+      "id": "dog-tail-wagging-small-dog",
+      "name": "dog-tail-wagging-small-dog",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/dog-tail-wagging-small-dog.png",
+      "file": "skins/dog-tail-wagging-small-dog.cxskin",
+      "sha256": "77C57C8F51884474FFF0637681CC8F6422982066357F1CCD21A01E6EECF023C0"
     }
   ]
 }
