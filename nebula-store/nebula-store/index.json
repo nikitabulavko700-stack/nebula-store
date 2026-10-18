@@ -86,6 +86,17 @@
       "preview": "previews/cat.png",
       "file": "skins/cat.cxskin",
       "sha256": "82AE1C76C4ED78518D2770489F480D0F7E892594F6645BE5E45BABFD1CF292C1"
+    },
+    {
+      "id": "kuzu420-dancing-27562",
+      "name": "kuzu420-dancing-27562",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/kuzu420-dancing-27562.png",
+      "file": "skins/kuzu420-dancing-27562.cxskin",
+      "sha256": "4CC177945A22ADE080EF7E7D02636CFADF2AD7C50D00174DE6710C84700350D9"
     }
   ]
 }
