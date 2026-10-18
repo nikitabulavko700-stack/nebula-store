@@ -64,6 +64,17 @@
       "preview": "previews/shiny-gengar-ig.png",
       "file": "skins/shiny-gengar-ig.cxskin",
       "sha256": "1540EE022591D154F4FBD47702D6EA733E39E70AFA842270B983A6A839A5B6B9"
+    },
+    {
+      "id": "bits-8bits",
+      "name": "bits-8bits",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/bits-8bits.png",
+      "file": "skins/bits-8bits.cxskin",
+      "sha256": "C75A54E67542690B55F00373056DCDE146BBFC879450CA076411BCB3A994A861"
     }
   ]
 }
