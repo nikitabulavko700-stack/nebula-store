@@ -130,6 +130,17 @@
       "preview": "previews/shiny-kyurem-pixel-pokemon.png",
       "file": "skins/shiny-kyurem-pixel-pokemon.cxskin",
       "sha256": "0333A72ECF2728AB3E14758883D8984107D05E570D645B593724D75138B225B2"
+    },
+    {
+      "id": "pokemon-pok-mon",
+      "name": "pokemon-pokémon",
+      "author": "faps",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/pokemon-pok-mon.png",
+      "file": "skins/pokemon-pok-mon.cxskin",
+      "sha256": "8BD9A103B6703FFE8A7D744C730D92F4B839499725A7EDE4094C5D318A7F40F4"
     }
   ]
 }
