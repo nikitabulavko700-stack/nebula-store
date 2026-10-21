@@ -141,6 +141,17 @@
       "preview": "previews/pokemon-pok-mon.png",
       "file": "skins/pokemon-pok-mon.cxskin",
       "sha256": "8BD9A103B6703FFE8A7D744C730D92F4B839499725A7EDE4094C5D318A7F40F4"
+    },
+    {
+      "id": "walk-together-eevee-evolution",
+      "name": "walk-together-eevee-evolution",
+      "author": "faps",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/walk-together-eevee-evolution.png",
+      "file": "skins/walk-together-eevee-evolution.cxskin",
+      "sha256": "B9966DC1FE84E6E519E7FE26D71143EBD9F84110BF598959AAA7B193F3439735"
     }
   ]
 }
