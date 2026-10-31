@@ -152,6 +152,18 @@
       "preview": "previews/walk-together-eevee-evolution.png",
       "file": "skins/walk-together-eevee-evolution.cxskin",
       "sha256": "B9966DC1FE84E6E519E7FE26D71143EBD9F84110BF598959AAA7B193F3439735"
+    },
+    {
+      "id": "minon-eschkere-kopiya",
+      "name": "минон-эщкере (копия)",
+      "author": "nixtand",
+      "effect": "spin",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/minon-eschkere-kopiya.png",
+      "file": "skins/minon-eschkere-kopiya.cxskin",
+      "sha256": "C0A960BA440448592FD684E4F7DD22512D584C558CD70D749E855448BF8A090F",
+      "owner": "nixtand"
     }
   ]
 }
