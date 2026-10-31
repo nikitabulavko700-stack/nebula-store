@@ -176,6 +176,18 @@
       "file": "skins/minon-leha.cxskin",
       "sha256": "3462D446BF70C1FA07DE197D9682D85B323ED36EE95B34AB05D4CD1F7D594A7F",
       "owner": "sannchezz_01"
+    },
+    {
+      "id": "ff6d59c2997d5a695e8b00205eb5c3aa",
+      "name": "ff6d59c2997d5a695e8b00205eb5c3aa",
+      "author": "sannchezz_01",
+      "effect": "none",
+      "gif": false,
+      "tags": [],
+      "preview": "previews/ff6d59c2997d5a695e8b00205eb5c3aa.png",
+      "file": "skins/ff6d59c2997d5a695e8b00205eb5c3aa.cxskin",
+      "sha256": "D9AA90E4221E2FEA4244A348C0978E3607F42375B8E0C30259C1374587F65A62",
+      "owner": "sannchezz_01"
     }
   ]
 }
