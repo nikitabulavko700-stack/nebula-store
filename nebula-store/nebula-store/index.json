@@ -164,6 +164,18 @@
       "file": "skins/minon-eschkere-kopiya.cxskin",
       "sha256": "C0A960BA440448592FD684E4F7DD22512D584C558CD70D749E855448BF8A090F",
       "owner": "nixtand"
+    },
+    {
+      "id": "minon-leha",
+      "name": "minon лёха",
+      "author": "sannchezz_01",
+      "effect": "none",
+      "gif": false,
+      "tags": [],
+      "preview": "previews/minon-leha.png",
+      "file": "skins/minon-leha.cxskin",
+      "sha256": "3462D446BF70C1FA07DE197D9682D85B323ED36EE95B34AB05D4CD1F7D594A7F",
+      "owner": "sannchezz_01"
     }
   ]
 }
