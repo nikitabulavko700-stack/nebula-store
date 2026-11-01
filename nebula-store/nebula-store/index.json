@@ -200,6 +200,18 @@
       "file": "skins/moy-skin.cxskin",
       "sha256": "7081DFE07A56982939BD396AA5B3CF435873ED51A8093AF1AE34A5834872D108",
       "owner": "sannchezz_01"
+    },
+    {
+      "id": "minon",
+      "name": "MINON",
+      "author": "sannchezz_01",
+      "effect": "spin",
+      "gif": false,
+      "tags": [],
+      "preview": "previews/minon.png",
+      "file": "skins/minon.cxskin",
+      "sha256": "438C14172B038829B9F96C4C525D48DBE96E2981FC8F12DFE420E07495014E3A",
+      "owner": "sannchezz_01"
     }
   ]
 }
