@@ -212,6 +212,18 @@
       "file": "skins/minon.cxskin",
       "sha256": "438C14172B038829B9F96C4C525D48DBE96E2981FC8F12DFE420E07495014E3A",
       "owner": "sannchezz_01"
+    },
+    {
+      "id": "pet-walk-together-eevee-evolution",
+      "name": "[pet] walk-together-eevee-evolution",
+      "author": "mishatankist__50489",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/pet-walk-together-eevee-evolution.png",
+      "file": "skins/pet-walk-together-eevee-evolution.cxskin",
+      "sha256": "ACF40E6B9677E9DD5BC87D1B70731BE3BA6A473A3E6A4446F84988629D41655E",
+      "owner": "mishatankist__50489"
     }
   ]
 }
