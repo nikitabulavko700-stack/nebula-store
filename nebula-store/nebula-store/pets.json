@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "skins": [
+    {
+      "id": "pet-nebulik",
+      "name": "Небулик",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-nebulik.png",
+      "file": "pets/pet-nebulik.cxskin",
+      "sha256": "9a6beccbdbf01d2e0befcdf5e88b39b80067a06569571f631d1ea1ef2d7c17e2",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-pixel-cat",
+      "name": "Пиксельный кот",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-pixel-cat.png",
+      "file": "pets/pet-pixel-cat.cxskin",
+      "sha256": "584eebed7c277e365a965d8e41b22a1d303257f4a980c597a0a1663ff30c4384",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-duckling",
+      "name": "Утёнок",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-duckling.png",
+      "file": "pets/pet-duckling.cxskin",
+      "sha256": "524338850a25cded7a511fe12d0bde78b088a538ec28ac98ce09415fdddf327f",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-bat",
+      "name": "Летучая мышка",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-bat.png",
+      "file": "pets/pet-bat.cxskin",
+      "sha256": "0f420c2ae2dc011ba8527601a388c5298e8a1b21a97c01da8769a3e91be6783c",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-bee",
+      "name": "Пчёлка",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-bee.png",
+      "file": "pets/pet-bee.cxskin",
+      "sha256": "a1bce857d3c00a288cf4f64f8788f8ad82bf3444a07ec5e3c5c7e82f773caa6c",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-jelly",
+      "name": "Медуза",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-jelly.png",
+      "file": "pets/pet-jelly.cxskin",
+      "sha256": "da8db3b294244e5ffcb89a66cf09193878ef4d2bf685b97f67940f861382a16b",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-ghostie",
+      "name": "Привидение",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-ghostie.png",
+      "file": "pets/pet-ghostie.cxskin",
+      "sha256": "fee6c3ca8d2d353a202fa5b0f8c98ce44d8eb0cb252b6600022f23993ab710d4",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-mushroom",
+      "name": "Грибочек",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-mushroom.png",
+      "file": "pets/pet-mushroom.cxskin",
+      "sha256": "6d091c16d82eda356ea49ededaaf219e4cd5e4324914c319a19842104970c01f",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-cactus",
+      "name": "Кактус",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-cactus.png",
+      "file": "pets/pet-cactus.cxskin",
+      "sha256": "6cd54a5353637a10c17ab5a4376f83d8bb66ca946153662a4eb41b4c37294fbe",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "pet-snowman",
+      "name": "Снеговик",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [
+        "pet"
+      ],
+      "preview": "previews/pet-snowman.png",
+      "file": "pets/pet-snowman.cxskin",
+      "sha256": "cf2c0bd2402c29960a314fe4be5da70b723300f67c308437237a280c6d14104b",
+      "added": "2026-11-15"
+    }
+  ]
+}
