@@ -224,6 +224,18 @@
       "file": "skins/pet-walk-together-eevee-evolution.cxskin",
       "sha256": "ACF40E6B9677E9DD5BC87D1B70731BE3BA6A473A3E6A4446F84988629D41655E",
       "owner": "mishatankist__50489"
+    },
+    {
+      "id": "pet-kuzu420-dancing-27562",
+      "name": "[pet] kuzu420-dancing-27562",
+      "author": "nixtand",
+      "effect": "none",
+      "gif": true,
+      "tags": [],
+      "preview": "previews/pet-kuzu420-dancing-27562.png",
+      "file": "skins/pet-kuzu420-dancing-27562.cxskin",
+      "sha256": "D61F3ACFE64C337A577425FDB2CF1651D978CF1D5EA50DB89F60B17D3379E65D",
+      "owner": "nixtand"
     }
   ]
 }
